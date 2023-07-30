@@ -31,4 +31,4 @@ We welcome contributions from everyone. Feel free to open an issue or submit a p
 
 ---
 
-Made with 💛 by Truffles.one
+Made with 💜 by Truffles.one
